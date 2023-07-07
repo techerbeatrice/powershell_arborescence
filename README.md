@@ -1,7 +1,13 @@
 # powershell_arborescence
 
-Les 3 fichiers :
+## Les 2 fichiers concernant les commandes
 
-1- historique.txt avec les différentes lignes de commandes.
+* _historique.txt avec les différentes lignes de commandes_
 
-2- listing.txt
+* _listing.txt_
+
+## Les listings du contenu de chacun des 4 répertoires
+* _EvenFolder_
+* _OddFolder_
+* _FolderTest1_
+* _FolderTest2_
