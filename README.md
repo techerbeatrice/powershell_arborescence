@@ -4,7 +4,7 @@
 
 * _historique.txt avec les différentes lignes de commandes_
 
-## Le listing du contenu de chacun des 4 répertoires suivants
+## Le listing du contenu des répertoires
 * _EvenFolder_
 * _OddFolder_
 * _FolderTest1_
